@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# NuGet
+packages/
+
+# Operating system
+Thumbs.db
+.DS_Store
